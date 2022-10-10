@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f2d3ac66-3e44-4754-a0f7-6526ac294030/deploy-status)](https://app.netlify.com/sites/patience-portfolio-434a52/deploys)
 
 # HTML and CSS Assessment
 
